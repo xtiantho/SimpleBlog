@@ -1,0 +1,28 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+/* Welcome Page */
+.jumbotron {
+  background-color:#009999;
+  color:white;
+  font-family:Futura;
+}
+
+.center {
+  text-align:center;
+}
+
+body {
+  padding:60px;
+  background-color:#FF9933;
+}
+
+.btn {
+  background-color:#004C4C;
+  color: white;
+  font-family:Futura;
+}
+
+#log-in-btn {
+  padding:15px;
+}
